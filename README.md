@@ -1,4 +1,4 @@
-# Auto-Check-Remember-Login
+# Auto Check Remember Login
 The script will automatically check all remember login checkbox
 
 # Mirrors
